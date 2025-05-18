@@ -115,8 +115,8 @@ ta
 ## ✍️ Author
 
 **Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME)  
-[LinkedIn](https://linkedin.com/in/YOUR_LINK)
+[GitHub](https://github.com/vatsalj2005)  
+[LinkedIn](https://linkedin.com/in/vatsalj2005)
 
 ---
 
