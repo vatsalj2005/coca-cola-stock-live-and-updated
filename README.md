@@ -1,4 +1,4 @@
-# 🥤 Coca-Cola Stock Analysis & Prediction
+# 🥤 Coca-Cola Stock - Live and Updated
 
 This project performs an end-to-end analysis of Coca-Cola's stock performance using historical data, technical indicators, and machine learning. It also supports live prediction using Yahoo Finance and includes a complete presentation and dashboard screenshots.
 
@@ -19,11 +19,11 @@ This project performs an end-to-end analysis of Coca-Cola's stock performance us
 ## 📁 Project Structure
 
 ```
-coca-cola-stock-analysis/
-├── Coca-Cola_stock_history.csv               # Historical price data
-├── Coca-Cola_stock_info.xlsx                 # Meta info (optional)
-├── coca_cola_enhanced_project.ipynb          # Final Jupyter Notebook (with ML, indicators)
-├── CocaCola_Stock_Analysis_Report_Final.pptx # Final presentation
+coca-cola-stock-live-and-updated/
+├── Coca-Cola_stock_history.csv                # Historical price data
+├── Coca-Cola_stock_info.xlsx                  # Meta info (optional)
+├── code.ipynb                                 # Final Jupyter Notebook (with ML, indicators)
+├── Project_Report.pptx                        # Final presentation
 ├── dashboard.png                              # Streamlit dashboard screenshot
 ├── terminal_output.png                        # Terminal live prediction output
 ├── requirements.txt                           # Final environment setup (no backtesting)
